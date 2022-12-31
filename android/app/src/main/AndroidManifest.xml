@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EgTLSCertViewer">
         <activity
-            android:name=".MainActivity"
+            android:name=".NetActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

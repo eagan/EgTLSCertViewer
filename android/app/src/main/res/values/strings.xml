@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">EgTLSCertViewer</string>
+
+    <string name="tv_net_title">接続先設定</string>
+    <string name="tv_net_protocol_label">プロトコル</string>
+    <string name="tv_net_starttls_label">STARTTLS</string>
+    <string name="tv_net_hostname_label">ホスト名</string>
+    <string name="tv_net_hostname_hint">www.example.org</string>
+    <string name="tv_net_port_label">ポート番号</string>
 </resources>
